@@ -69,16 +69,16 @@ header{
 
 .introduction{
   /* background-color:skyblue; */
-  height: 700px;
-  font-size:30px;
-  padding:45px 15px;
+  height: 860px;
+  font-size:35px;
+  padding:0 45px 15px 15px;
   margin:0 5%;
   width:90%;
 
 }
 
 .introduction p{
-  padding-bottom:33px;
+  padding-bottom:35px;
  
 }
 .important{
@@ -147,7 +147,7 @@ button:hover:before,button:hover:after{
 
 .target-person {
   
-  height:950px;
+  height:1000px;
   margin:80px 25px 5% 5%;
   width:90%;
   background: #f1f1f1;
@@ -173,7 +173,7 @@ button:hover:before,button:hover:after{
 .target-point li{
   padding: 15px 20px;
   margin: 0;
-  font-size:30px;
+  font-size:35px;
   font-weight: bold;
 }
 
@@ -281,14 +281,14 @@ color: #FFF:
 .experiences-contents{
   margin:0 5%;
   width:90%;
-  height:1650px;
+  height:1950px;
   padding-top:45px;
   
 }
 
 .experiences-contents p{
-  font-size:30px;
-  padding-bottom:30px;
+  font-size:35px;
+  padding-bottom:35px;
 
 }
 
@@ -370,8 +370,8 @@ color: #FFF:
 .solution{
   margin:50px 5%;
   width:90%;
-  height:2200px;
-  font-size:30px;
+  height:2450px;
+  font-size:35px;
 }
 
 .solution-1{
@@ -381,7 +381,7 @@ color: #FFF:
 }
 
 .solution p{
-  padding-bottom:30px;
+  padding-bottom:35px;
 }
 
 .description{
@@ -534,7 +534,7 @@ blockquote cite {
 .point-top{
   margin:0 5%;
   width: 90%;
-  height: 4960px;
+  height: 5780px;
 }
 
 
@@ -562,7 +562,7 @@ blockquote cite {
 }
 
 .point-contents{
-  font-size:30px;
+  font-size:35px;
   padding-bottom:30px;
 }
 
@@ -572,7 +572,7 @@ blockquote cite {
 }
 
 .point-contents p{
-  padding-bottom:30px;
+  padding-bottom:35px;
   padding-left:15px;
 }
 
@@ -590,8 +590,8 @@ blockquote cite {
 .seminar{
   margin:0 5%;
   width:90%;
-  height: 3650px;
-  font-size:30px;
+  height: 4280px;
+  font-size:35px;
 }
 
 
@@ -646,7 +646,7 @@ blockquote cite {
 }
 
 .schedule li{
-  font-size:30px;
+  font-size:35px;
   font-weight: bold;
 }
 
@@ -696,7 +696,7 @@ color: #FF3366;
 
 .cost h2{
   color:red;
-  font-size:30px;
+  font-size:35px;
   margin-bottom:25px;
 }
 
@@ -728,15 +728,15 @@ color: #FF3366;
 }
   
 .bonus p{
-  font-size:30px;
-  padding-bottom:30px;
+  font-size:35px;
+  padding-bottom:35px;
 }
  
  /* まとめ */
 
 
 .ending{
-  height: 3450px;
+  height: 4200px;
   width:90%;
   margin:50px 5%;
   background: #F8F8FF;
@@ -760,9 +760,9 @@ color: #FF3366;
 }
 
 .ending p {
-  padding: 15px 20px;
+  padding: 25px 20px;
   margin: 0;
-  font-size:30px;
+  font-size:35px;
 }
 
 .ending-point{
