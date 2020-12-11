@@ -590,7 +590,7 @@ blockquote cite {
 .seminar{
   margin:0 5%;
   width:90%;
-  height: 4250px;
+  height: 4400px;
   font-size:35px;
 }
 
@@ -732,6 +732,13 @@ color: #FF3366;
   padding-bottom:35px;
 }
  
+.bonus-point{
+  font-size:50px;
+  color:red;
+  font-weight: bold;
+}
+
+
  /* まとめ */
 
 
